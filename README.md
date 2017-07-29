@@ -7,7 +7,7 @@ Simple code of a JQuery To do List, working with DOM.
 ## Steps
 
 To run the program you have to:
-
+- Download or clone this repository.
 - Open the 'index.html' on the browser.
 - Add a task on the text field.
 - Click on 'Agregar' button.
